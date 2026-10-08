@@ -1,0 +1,5 @@
+com\kata\banking\AccountTest.class
+com\kata\banking\BankingServiceTest.class
+com\kata\banking\MoneyTest.class
+com\kata\banking\BankingServiceConcurrencyTest.class
+com\kata\banking\BankingServiceTest$MutableClock.class
